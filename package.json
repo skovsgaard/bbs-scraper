@@ -1,0 +1,24 @@
+{
+  "name": "bbs-scraper",
+  "version": "0.0.0",
+  "description": "A scraper for searching posts on BigBoringSystem.",
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "main": "lib/app.js",
+  "scripts": {
+    "start": "node lib/app.js --harmony",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "bbs",
+    "bigboringsystem"
+  ],
+  "author": "jsc",
+  "license": "ISC",
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*"
+  }
+}
