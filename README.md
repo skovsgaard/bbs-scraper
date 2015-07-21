@@ -1,1 +1,1 @@
-So far all this does is list a bunch of links.
+BBS is no more. Leaving this here in case it inexplicably becomes useful for something else.
